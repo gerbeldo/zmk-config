@@ -17,7 +17,7 @@
     &bspc_del       &hrml LCTRL A   &hrml LALT S    &hrml LCMD D    &hrml LSHFT F   &hrml MEH G         &hrmr MEH H     &hrmr RSHFT J   &hrmr LCMD K    &hrmr LALT L    &kp SQT         &kp RET
 // ├───────────────├───────────────┼───────────────┼───────────────┼───────────────┼───────────────┤   ├───────────────├───────────────┼───────────────┼───────────────┼───────────────┼───────────────┤
 // │24             │25             │26             │27             │28             │29             │   │30             │31             │32             │33             │34             │35             │
-    &csl Fn         &kp Z           &kp X           &kp C           &kp V           &kp B               &kp N           &kp M           &kp COMMA       &kp DOT         &kp FSLH        &csl Fn
+    &none           &kp Z           &kp X           &kp C           &kp V           &kp B               &kp N           &kp M           &kp COMMA       &kp DOT         &kp FSLH        &none
 // ╰───────────────┼───────────────┼───────────────┼───────────────┼───────────────┼───────────────┤   ├───────────────├───────────────┼───────────────┼───────────────┼───────────────┼───────────────╯
 //                 │36             │37             │38             │39             │40             │   │41             │42             │43             │44             │45             │
                     &none           &none           &kp ESC         &lt L2 SPACE    &kp TAB             &kp RET         &lt L2 &bspc_del &kp GRAVE      &none           &none
