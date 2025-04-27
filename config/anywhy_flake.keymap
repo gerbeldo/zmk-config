@@ -1,6 +1,6 @@
 #define CONFIG_WIRELESS
 
 #include "key-names/anywhy_flake.dtsi"
-#include <base.dtsi>
+#include "base.dtsi"
 
 / { chosen { zmk,physical-layout = &medium_layout; }; };
